@@ -1,6 +1,7 @@
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/ae0d48e6-4549-4381-a110-5b3a0701e62a" alt="coder" />
+  <img src="https://github.com/user-attachments/assets/40e08566-1a71-4510-8814-85f0906c513a" alt="coder" />
 </div>
+
 
 ## ✨ About Me
 
