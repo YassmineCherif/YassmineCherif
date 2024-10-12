@@ -1,16 +1,50 @@
-## Hi there 👋
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/ae0d48e6-4549-4381-a110-5b3a0701e62a" alt="coder" />
+</div>
 
-<!--
-**YassmineCherif/YassmineCherif** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## ✨ About Me
 
-Here are some ideas to get you started:
+### Hi there 👋
+I'm **Yassmine**, a software architecture developer from Tunisia.  
+Thank you for checking out my GitHub profile! 😄
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 I’m currently learning **Testing tools**.
+
+###  Social Accounts 🌐
+
+<a href="https://www.linkedin.com/in/yasmine-cherif-9a0407203/" style="text-decoration: none; margin-right: 10px;">
+  <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="LinkedIn" style="height: 40px;" />
+</a>
+<a href="mailto:cherifyasmeen@gmail.com" style="text-decoration: none;">
+    <img src='https://user-images.githubusercontent.com/59792971/164092165-318b4325-304b-4b3e-8143-eb8906976e4d.png' alt='email' style="height: 40px;">
+</a>
+
+
+###  Skills 💪
+
+<div style="display: flex; flex-wrap: wrap; gap: 15px; align-items: center;">
+  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
+  <img height="40" src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg"/>
+  <img height="40" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="nodejs"/>
+  <img height="40" src="https://www.vectorlogo.zone/logos/dotnet/dotnet-ar21.svg" alt="dotnet"/>
+  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" />
+  <img height="40" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="react"/>
+  <img height="40" src="https://seeklogo.com/images/D/docker-logo-9FF973197B-seeklogo.com.png"/>
+  <img height="40" src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg"/>
+  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
+</div>
+
+###  GitHub Stats 📊
+
+<table style="border: none; margin: auto;">
+    <tbody>
+        <tr valign="top">
+          <td>
+            <img src="https://github-readme-streak-stats.herokuapp.com/?user=CherifYasmeen&theme=chartreuse-dark&hide_border=false" alt="GitHub Streak Stats"/>
+          </td>
+          <td>
+            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CherifYasmeen&theme=chartreuse-dark&show_icons=true&hide_border=false&layout=compact" alt="Top Languages"/>
+          </td>
+        </tr>
+    </tbody>
+</table>
