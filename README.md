@@ -41,10 +41,10 @@ Thank you for checking out my GitHub profile! 😄
     <tbody>
         <tr valign="top">
           <td>
-            <img src="https://github-readme-streak-stats.herokuapp.com/?user=CherifYasmeen&theme=chartreuse-dark&hide_border=false" alt="GitHub Streak Stats"/>
+            <img src="https://github-readme-streak-stats.herokuapp.com/?user=YassmineCherif&theme=chartreuse-dark&hide_border=false" alt="GitHub Streak Stats"/>
           </td>
           <td>
-            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CherifYasmeen&theme=chartreuse-dark&show_icons=true&hide_border=false&layout=compact" alt="Top Languages"/>
+            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YassmineCherif&theme=chartreuse-dark&show_icons=true&hide_border=false&layout=compact" alt="Top Languages"/>
           </td>
         </tr>
     </tbody>
