@@ -40,8 +40,7 @@ Thank you for checking out my GitHub profile! 😄
 <table style="border: none; margin: auto;">
     <tbody>
         <tr valign="top">
-      
-          <td>
+           <td>
             <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YassmineCherif&theme=chartreuse-dark&show_icons=true&hide_border=false&layout=compact" alt="Top Languages"/>
           </td>
         </tr>
