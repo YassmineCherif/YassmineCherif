@@ -40,9 +40,7 @@ Thank you for checking out my GitHub profile! 😄
 <table style="border: none; margin: auto;">
     <tbody>
         <tr valign="top">
-          <td>
-            <img src="https://github-readme-streak-stats.herokuapp.com/?user=YassmineCherif&theme=chartreuse-dark&hide_border=false" alt="GitHub Streak Stats"/>
-          </td>
+      
           <td>
             <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YassmineCherif&theme=chartreuse-dark&show_icons=true&hide_border=false&layout=compact" alt="Top Languages"/>
           </td>
