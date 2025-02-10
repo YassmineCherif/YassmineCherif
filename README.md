@@ -30,7 +30,7 @@ Thank you for checking out my GitHub profile! 😄
   <img height="40" src="https://www.vectorlogo.zone/logos/dotnet/dotnet-ar21.svg" alt="dotnet"/>
   <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" />
   <img height="40" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="react"/>
-  <img height="40" src="https://images.seeklogo.com/logo-png/48/1/docker-logo-png_seeklogo-481255.png"/>
+  <img height="40" src="https://seeklogo.com/images/D/docker-logo-CF97D0124B-seeklogo.com.png"/>
   <img height="40" src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg"/>
   <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
 </div>
