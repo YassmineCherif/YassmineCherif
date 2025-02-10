@@ -24,15 +24,15 @@ Thank you for checking out my GitHub profile! 😄
 ###  Skills 💪
 
 <div style="display: flex; flex-wrap: wrap; gap: 15px; align-items: center;">
-  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
-  <img height="40" src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg"/>
+  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg alt="java""/>
+  <img height="40" src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg alt="spring""/>
   <img height="40" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="nodejs"/>
   <img height="40" src="https://www.vectorlogo.zone/logos/dotnet/dotnet-ar21.svg" alt="dotnet"/>
   <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" />
   <img height="40" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="react"/>
-  <img height="40" src="https://seeklogo.com/images/D/docker-logo-CF97D0124B-seeklogo.com.png"/>
-  <img height="40" src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg"/>
-  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
+  <img height="40" src="https://seeklogo.com/images/D/docker-logo-CF97D0124B-seeklogo.com.png" alt="docker"/>
+  <img height="40" src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins"/>
+  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg alt="git""/>
 </div>
 
 ###  GitHub Stats 📊
