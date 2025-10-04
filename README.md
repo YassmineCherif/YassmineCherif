@@ -6,10 +6,9 @@
 ## ✨ About Me
 
 ### Hi there 👋
-I'm **Yassmine**, a software architecture developer from Tunisia.  
+I'm **Yassmine**, a junior Software Engineer from Tunisia.  
 Thank you for checking out my GitHub profile! 😄
 
-- 🌱 I’m currently learning **Devops**.
 
 ###  Social Accounts 🌐
 
